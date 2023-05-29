@@ -1,0 +1,11 @@
+[
+  {
+    "question": "What is better",
+    "choices": [
+      "Eating a pizza while watching Netflix",
+      "Drinking a beer while watching a sport game"
+    ],
+    "correct": 2,
+    "explanation": "because"
+  }
+]
